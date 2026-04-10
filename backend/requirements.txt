@@ -1,0 +1,12 @@
+fastapi[standard]>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+pydantic-settings>=2.0.0
+sqlalchemy[asyncio]>=2.0.0
+aiosqlite>=0.20.0
+alembic>=1.13.0
+chatterbox-tts>=0.1.0
+torch>=2.0.0
+torchaudio>=2.0.0
+aiofiles>=24.1.0
+websockets>=12.0
