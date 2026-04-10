@@ -1,6 +1,6 @@
 # Chatterbox Voice Lab Pro
 
-A production-grade, local-first professional voice cloning and synthesis studio powered by [Chatterbox TTS](https://github.com/resemble-ai/chatterbox) by Resemble AI.
+A production-grade, local-first voice cloning and synthesis studio powered by [Chatterbox TTS](https://github.com/resemble-ai/chatterbox) by Resemble AI.
 
 ## Screenshot
 
@@ -17,8 +17,6 @@ A production-grade, local-first professional voice cloning and synthesis studio 
 - **Real-time WebSocket Progress** — live generation status updates
 - **Generation History** — playback, download, delete past outputs
 - **Preset System** — Podcast, Cinematic, Energetic, Calm presets built-in
-
-### V2 (Advanced)
 - **Timeline Editor** — multi-clip projects with reordering
 - **Multi-Speaker Scene Builder** — assign different voices per speaker track
 - **Smart Text Chunking** — automatic splitting for long texts
